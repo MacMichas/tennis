@@ -60,4 +60,4 @@ When the app starts to record, ask for or send something new, this page changes 
 
 ## Contact
 
-{{ site.contact_name }} makes {{ site.title }} and is responsible for this policy. For questions, or to have the sessions you sent us deleted, write to [{{ site.contact_email }}](mailto:{{ site.contact_email }}).
+The developer of {{ site.title }} is responsible for this policy. For questions, or to have the sessions you sent us deleted, write to [{{ site.contact_email }}](mailto:{{ site.contact_email }}).
