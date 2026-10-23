@@ -1,0 +1,7 @@
+# The app's name and its contact live here alone; every page reads them from here.
+title: TennisTrack
+description: Tennis training on Apple Watch, with an iPhone companion.
+contact_email: contact@tennistreak.com
+
+exclude:
+  - README.md
