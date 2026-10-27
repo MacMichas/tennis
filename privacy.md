@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-Last updated: 22 October 2026
+Last updated: 26 October 2026
 
 This policy covers {{ site.title }} for Apple Watch and its iPhone companion.
 
@@ -24,7 +24,7 @@ During a session, on your Apple Watch:
 - **Where the session started, if you allow it.** With location allowed for the app on your iPhone, the watch takes one reading of where it is as a session starts and keeps it with that session, so you can see where you played. The app never follows your location during a session or at any other time.
 - **The session itself:** when it started, how long it lasted, and whether it was training or a match.
 
-The app also keeps your setup: which wrist wears the watch, which hand holds the racket, and your daily goal.
+The app also keeps your setup: which wrist wears the watch, which hand holds the racket, and every daily goal you have set, with when you set it, so a new goal never changes a day you already played.
 
 ## Where it stays
 
